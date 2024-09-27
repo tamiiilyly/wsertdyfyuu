@@ -12,3 +12,6 @@ console.log (areaQuadrado (6));
 let media =function (num1,num2,num3) {
 return (num1+num2+num3)/3;
 }
+let nome =pronpt ('qual o nome?');
+document.white(nome) 
+parseInt(pompt('?'));
