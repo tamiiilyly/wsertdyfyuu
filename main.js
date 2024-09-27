@@ -18,3 +18,4 @@ let valormedia = parseInt (prompt(insira valor 3));
 let media =function (num1,num2,num3) {
 return (num1+num2+num3)/3;
 }
+console.log(media(valormedia1,valormedia2,valormedia3))
